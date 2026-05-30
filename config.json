@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterrender",
+        "uuid": 3869800,
+        "checksum": "6lrhg"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
